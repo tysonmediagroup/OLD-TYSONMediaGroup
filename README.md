@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="imagestuff/logostuff/mainweblogo.png" alt="TYSON Media Group" width="600px">
-</p>
+<img width="2560" height="500" alt="image" src="https://github.com/user-attachments/assets/2d8c8e34-0e92-43b9-801e-3ccfbaa8ccf7" />
+
 
 <h3 align="center">tysonmediagroup.org</h3>
 
@@ -16,7 +15,5 @@ I'm Tyler, and I absolutely hate software development, yet if you look at my com
 
 I like cars and stuff...
 
----
-```
-<img width="2560" height="660" alt="Untitled(2)" src="https://github.com/user-attachments/assets/40f8fca6-a06c-42c5-81ad-574cb1223167" />
+
 
