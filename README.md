@@ -11,9 +11,5 @@
 
 Welcome to the central repository for the **TYSON Media Group "tysonmediagroup.org" Flagship Platform**. 
 
-I'm Tyler, and I absolutely hate software development, yet if you look at my commit timeline on here, you might find otherwise...
-
-I like cars and stuff...
-
 
 
